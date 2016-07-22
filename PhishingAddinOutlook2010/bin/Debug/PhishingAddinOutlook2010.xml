@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PhishingAddinOutlook2010
+</name>
+</assembly>
+<members>
+<member name="T:PhishingAddinOutlook2010.PhishingAddin">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.#ctor(Microsoft.Office.Tools.Outlook.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.Initialize">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.FinishInitialization">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.InitializeDataBindings">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.InitializeCachedData">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.InitializeData">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.BindToData">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.StartCaching(System.String)">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.StopCaching(System.String)">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.IsCached(System.String)">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.BeginInitialization">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.EndInitialization">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.InitializeControls">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.InitializeComponents">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.NeedsFill(System.String)">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.PhishingAddin.OnShutdown">
+
+</member>
+<member name="T:PhishingAddinOutlook2010.Globals">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.Globals.#ctor">
+
+</member>
+<member name="T:PhishingAddinOutlook2010.ThisRibbonCollection">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:PhishingAddinOutlook2010.ThisFormRegionCollection">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.ThisFormRegionCollection.#ctor(System.Collections.Generic.IList{Microsoft.Office.Tools.Outlook.IFormRegion})">
+
+</member>
+<member name="T:PhishingAddinOutlook2010.WindowFormRegionCollection">
+
+</member>
+<member name="M:PhishingAddinOutlook2010.WindowFormRegionCollection.#ctor(System.Collections.Generic.IList{Microsoft.Office.Tools.Outlook.IFormRegion})">
+
+</member>
+<member name="T:PhishingAddinOutlook2010.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PhishingAddinOutlook2010.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PhishingAddinOutlook2010.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
